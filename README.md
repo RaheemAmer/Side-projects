@@ -1,1 +1,2 @@
-# Hello, this is my CV Book (Still under-development)
+# CV Book (Still under-development)
+
