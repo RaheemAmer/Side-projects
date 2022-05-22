@@ -1,0 +1,28 @@
+#main {
+    background-color: #eee;
+}
+
+header {
+    text-align: center;
+}
+
+#title {
+    font-weight: bold;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    background-color: white;
+    display: block;
+}
+
+#img-div img {
+    width: 100%
+}
+
+#tribute-info h4,
+tribute-info span,
+#quote {
+    font-weight: bolder;
+}
